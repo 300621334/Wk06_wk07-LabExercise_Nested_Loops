@@ -1,0 +1,28 @@
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe.config
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.pdb
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.pdb
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\mscorlib.dll
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\System.Net.Http.dll
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\System.Net.Http.xml
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\normidna.nlp
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\normnfc.nlp
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\normnfd.nlp
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\normnfkc.nlp
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\normnfkd.nlp
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.csprojResolveAssemblyReference.cache
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.exe
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.pdb
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe.config
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.pdb
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe.config
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.exe
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\bin\Debug\06.05.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.05\obj\Debug\06.05.csprojResolveAssemblyReference.cache

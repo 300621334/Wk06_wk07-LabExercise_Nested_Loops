@@ -1,0 +1,13 @@
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.exe.config
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.exe.config
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.pdb
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.pdb
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.exe.config
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.exe
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.pdb
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.exe
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\bin\Debug\6.c.pdb
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\6.c\obj\Debug\6.c.csprojResolveAssemblyReference.cache

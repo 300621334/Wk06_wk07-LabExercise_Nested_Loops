@@ -1,0 +1,5 @@
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\class_task_1\bin\Debug\class_task_1.exe.config
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\class_task_1\bin\Debug\class_task_1.exe
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\class_task_1\bin\Debug\class_task_1.pdb
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\class_task_1\obj\Debug\class_task_1.exe
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\class_task_1\obj\Debug\class_task_1.pdb

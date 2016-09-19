@@ -1,0 +1,6 @@
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\bin\Debug\7.b_alternate_shorter.exe.config
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\bin\Debug\7.b_alternate_shorter.exe
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\bin\Debug\7.b_alternate_shorter.pdb
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\obj\Debug\7.b_alternate_shorter.csprojResolveAssemblyReference.cache
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\obj\Debug\7.b_alternate_shorter.exe
+H:\Comp-100\Loops-new file-fully done\Wk06_wk07-LabExercise_Nested_Loops (2)\Wk06_wk07-LabExercise_Nested_Loops\7.b_alternate_shorter\obj\Debug\7.b_alternate_shorter.pdb

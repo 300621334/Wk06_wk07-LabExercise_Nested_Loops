@@ -1,0 +1,15 @@
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.exe.config
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.exe
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.pdb
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.csprojResolveAssemblyReference.cache
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.exe
+H:\Comp-100\Wk06_wk07-LabExercise_Nested_Loops\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.pdb
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.exe.config
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.pdb
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.exe
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.pdb
+D:\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.csprojResolveAssemblyReference.cache
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\bin\Debug\06.a.exe.config
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.exe
+C:\Users\a\Dropbox\Mani\comp-100\Wk06_wk07-LabExercise_Nested_Loops\06.a\obj\Debug\06.a.pdb
